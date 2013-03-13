@@ -13,6 +13,9 @@
     <link href='http://fonts.googleapis.com/css?family=Lato:300,400,700,900,300italic,400italic,700italic,900italic' rel='stylesheet' type='text/css'>
     <link rel="stylesheet" type="text/css" href="css/lib/animate.css" media="screen, projection">   
     <link rel="stylesheet" href="css/coming-soon.css" type="text/css" media="screen" />
+    <link rel="stylesheet" href="css/about.css" type="text/css" media="screen" />
+    <link rel="stylesheet" href="css/lib/flexslider.css" type="text/css" media="screen" />
+    <link rel="stylesheet" href="css/contact.css" type="text/css" media="screen" />
  
 
     <!--[if lt IE 9]>
@@ -34,7 +37,7 @@
             <div class="nav-collapse collapse">
                 <ul class="nav pull-right">
                     <li><a href="index.php" class="active">HOME</a></li>
-                    <li><a href="about-us.html">ABOUT US</a></li>
+                    <li><a href="about-us.php">ABOUT US</a></li>
                     <li class="dropdown">
                         <a href="#" class="dropdown-toggle" data-toggle="dropdown">
                             SERVICES
@@ -52,8 +55,8 @@
                         </ul>
                     </li>
                     <!--  <li><a href="pricing.html">PRICING</a></li>  -->
-                    <li><a href="contact.html">CONTACT US</a></li>
-                    <li><a href="blog.html">BLOG</a></li>
+                    <li><a href="contact.php">CONTACT US</a></li>
+                    <li><a href="#">BLOG</a></li>
                     <li><a class="btn-header" href="sign-up.html">Sign up</a></li>
                     <li><a class="btn-header" href="sign-in.html">Sign in</a></li>
                 </ul>

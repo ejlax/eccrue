@@ -37,8 +37,8 @@ include_once('header.php');
             <img class="asset left-350 sp450 t135 z2" src="img/slides/scene3/desktop.png" />
             <img class="asset left-185 sp550 t220 z1" src="img/slides/scene3/macbook.png" />
             <div class="info">
-                <h2>Fully Responsive theme</h2>
-                <a href="features.html">TOUR THE PRODUCT</a>
+                <h2>Your Expenses in Real Time</h2>
+                <a href="coming-soon.php">TOUR THE PRODUCT</a>
             </div>
         </article>
         <!--  <article class="slide" id="responsive" style="background: url('img/backgrounds/indigo.jpg') repeat-x top center;">
@@ -64,7 +64,7 @@ include_once('header.php');
                     <!-- Feature -->
                     <div class="span4 feature first">
                         <div class="img_box">
-                            <a href="services.html">
+                            <a href="coming-soon.php">
                                 <img src="img/service1.png">
                                 <span class="circle"> 
                                     <span class="plus">&#43;</span>
@@ -72,16 +72,16 @@ include_once('header.php');
                             </a>
                         </div>
                         <div class="text">
-                            <h6>Responsive theme</h6>
+                            <h6>Responsive</h6>
                             <p>
-                                There are many variations of passages of generators on the  embarrassing hidden in   content here making it look like.
+                                
                             </p>
                         </div>
                     </div>
                     <!-- Feature -->
                     <div class="span4 feature">
                         <div class="img_box">
-                            <a href="services.html">
+                            <a href="coming-soon.php">
                                 <img src="img/service2.png">
                                 <span class="circle"> 
                                     <span class="plus">&#43;</span>
@@ -89,7 +89,7 @@ include_once('header.php');
                             </a>
                         </div>
                         <div class="text">
-                            <h6>Easy customization</h6>
+                            <h6>Easy Peasy</h6>
                             <p>
                                 There are many variations of passages of generators on the  embarrassing hidden in   content here making it look like.
                             </p>
@@ -98,7 +98,7 @@ include_once('header.php');
                     <!-- Feature -->
                     <div class="span4 feature last">
                         <div class="img_box">
-                            <a href="services.html">
+                            <a href="coming-soon.php">
                                 <img src="img/service3.png">
                                 <span class="circle"> 
                                     <span class="plus">&#43;</span>
@@ -108,7 +108,7 @@ include_once('header.php');
                         <div class="text">
                             <h6>Made with love</h6>
                             <p>
-                                There are many variations of passages of generators on the  embarrassing hidden in   content here making it look like.
+                                
                             </p>
                         </div>
                     </div>

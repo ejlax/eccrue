@@ -42,7 +42,7 @@
                         </div>
                         <div class="author">
                             <img src="img/user-display.png" />
-                            <div class="name">Alejandra Galvan Castillo</div>
+                            <div class="name">Some Awesome VP</div>
                             <div class="info">
                                 Details Canvas
                             </div>
@@ -97,7 +97,7 @@
                     </div>
                     <div class="row copyright">
                         <div class="span12">
-                            © 2013 Clean Canvas. All rights reserved. Theme by Detail Canvas.
+                            © 2013 Eccure.com
                         </div>
                     </div>
                 </div>            
