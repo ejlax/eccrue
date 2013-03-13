@@ -23,7 +23,7 @@
     <![endif]-->
 </head>
 <body class="pull_top">
-    <div class="navbar transparent navbar-inverse navbar-fixed-top">
+    <div class="navbar transparent navbar navbar-fixed-top">
       <div class="navbar-inner">
         <div class="container">
             <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">

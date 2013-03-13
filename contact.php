@@ -67,7 +67,7 @@ include_once('header.php');
                 </div>
             </div>
             <!-- <iframe width="100%" height="600" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com.mx/?ie=UTF8&amp;ll=64.089157,-21.816616&amp;spn=0.045157,0.15398&amp;t=m&amp;z=13&amp;output=embed"></iframe> -->
-<iframe width="100%" height="600" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=Salt+Lake+City,+UT&amp;aq=0&amp;oq=salt&amp;sll=39.499761,-111.547028&amp;sspn=4.179034,9.876709&amp;t=m&amp;ie=UTF8&amp;hq=&amp;hnear=Salt+Lake+City,+Salt+Lake,+Utah&amp;z=11&amp;ll=40.760779,-111.891047&amp;output=embed"></iframe>
+<iframe width="100%" height="800" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=Salt+Lake+City,+UT&amp;aq=0&amp;oq=salt&amp;sll=39.499761,-111.547028&amp;sspn=4.179034,9.876709&amp;t=m&amp;ie=UTF8&amp;hq=&amp;hnear=Salt+Lake+City,+Salt+Lake,+Utah&amp;z=11&amp;ll=40.760779,-111.891047&amp;output=embed"></iframe>
         </div>
     </div>
 
