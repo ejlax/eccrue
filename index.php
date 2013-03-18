@@ -32,7 +32,7 @@
 								<a href="about-us.html">About Us</a>
 							</li>
 							<li>
-								<a href="coming-soon.html">Coming Soon</a>
+								<a href="coming-soon.php">Coming Soon</a>
 							</li>
 							<li>
 								<a href="#feature_set">Features</a>
