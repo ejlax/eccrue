@@ -1,8 +1,8 @@
 #coming_soon {
-	margin-top: -35px;
+	margin-top: -110px;
 }
 #coming_soon .head{
-	background: url("../img/backgrounds/color-splash.jpg") no-repeat;
+	background: url("../img/backgrounds/water.jpg") no-repeat;
 	display: block;
 	padding-top: 160px;
 	height: 288px;
@@ -17,14 +17,14 @@
 }
 #coming_soon .text h4{
 	margin: 0 0 35px 0;
-	color: #fff;
+	color: #000;
 	font-size: 35px;
 	font-weight: normal;
 	line-height: 38px;
-	text-shadow: 1px 1px 0px #2A284D;
+	text-shadow: 1px 1px 0px #aaa;
 }
 #coming_soon .text p{
-	color: #fff;
+	color: #000;
 	font-size: 16px;
 	font-style: italic;
 	line-height: 24px;

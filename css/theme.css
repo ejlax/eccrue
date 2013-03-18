@@ -72,6 +72,7 @@ header {
 }
 .navbar-inverse .nav > li > a:hover,
 .navbar-inverse .nav > li > a.active {
+	background-color: #555555;
     color: #fff;
     opacity: 1;
     filter: alpha(opacity=100);
